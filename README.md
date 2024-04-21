@@ -1,5 +1,4 @@
-Password Cracking Tool:
-
+# Password Cracking Tool
 This Python script provides a password cracking tool that helps users test the strength of their passwords by attempting to crack them using various techniques such as dictionary attacks and brute-force attacks.
 
 Usage
