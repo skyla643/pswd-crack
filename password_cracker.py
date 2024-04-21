@@ -1,5 +1,3 @@
-# password_cracker.py
-
 import itertools
 import hashlib
 
