@@ -30,7 +30,7 @@ def crack_password(hash_type, target_hash, charset, max_length):
 
     # Dictionary attack
     try:
-        with open(r"C:\Users\Future5\.vscode\extensions\common_passwords.txt", "r") as f:
+        with open(r"C:your-flie", "r") as f:
             common_passwords = f.readlines()
             for password in common_passwords:
                 password = password.strip()
